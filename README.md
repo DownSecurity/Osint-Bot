@@ -10,10 +10,26 @@ Voici un bot discord osint avec les api key offerte vous aurez juste a suivre le
                         pip freeze > requirements.txt
                         pip install -r requirements.txt
                         python main.py (faite la config avant de lancer !!!)
+                        Crée un dossier apellé "database"
 
 ## Config : 
-    Rendez vous dans le main.py puis :      
+    Rendez vous dans le main.py puis : 
+                                   Aller ligne 24 et mettez le prefix que vous voulez pour le bot.
+                                   Aller ligne 26 et mettez votre id (le owner id).
+                                   Aller ligne 318 et mettez le token de votre bot.
+                                   
 
 ## Contributors
 - DownSecurity
 (https://github.com/downsecurity)
+
+
+
+
+
+
+
+
+
+
+
