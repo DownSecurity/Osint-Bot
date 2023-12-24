@@ -12,6 +12,8 @@ Voici un bot discord osint avec les api key offerte vous aurez juste a suivre le
                         python main.py (faite la config avant de lancer !!!)
                         Crée un dossier apellé "database"
 
+<p>Le dossier database va contenir vos database perso (sans c'est fichier la commande lookup sert a rien :)</p>
+
 ## Config : 
     Rendez vous dans le main.py puis : 
                                    Aller ligne 24 et mettez le prefix que vous voulez pour le bot.
